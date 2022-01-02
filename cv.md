@@ -2,9 +2,9 @@
 
 ## Contacts
 
-* **Mobile phone:**+375(29)369-89-63
+* **Phone:**+375(29)369-89-63
 * **e-mail:** a.p.kryzhchenko@gmail.com
-* **GitHub:** antonkryzhchenko
+* **GitHub:**@antonkryzhchenko
 * **Discord:**@antonkryzhchenko
 
 ## About me
